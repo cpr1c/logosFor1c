@@ -1,0 +1,1 @@
+# logosFor1c
