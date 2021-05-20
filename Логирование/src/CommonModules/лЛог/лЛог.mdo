@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="480391f0-f35d-4e61-a4a3-8a6fdb69c5d2">
+  <name>лЛог</name>
+  <synonym>
+    <key>ru</key>
+    <value>Лог</value>
+  </synonym>
+  <clientManagedApplication>true</clientManagedApplication>
+  <server>true</server>
+</mdclass:CommonModule>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c7ee6efb-dfe8-4f77-bfd1-77ea0210201a">
+  <producedTypes>
+    <refType typeId="232287be-5838-4831-9396-0317c346a1ac" valueTypeId="93e117ad-3700-4537-90eb-a78b48e9b2d3"/>
+    <listType typeId="ccf0904f-2606-4cf6-81be-64a065cebcd3" valueTypeId="1eb84b67-2910-43ee-afa1-ae8b04e66df4"/>
+    <managerType typeId="b4419aef-324b-4817-8519-e0d6b9b64584" valueTypeId="e8fb51a6-f01e-461a-a22c-0661f90431a1"/>
+  </producedTypes>
+  <name>лСпособыЛогирования</name>
+  <synonym>
+    <key>ru</key>
+    <value>Способы логирования (Логирование)</value>
+  </synonym>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Order</name>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Ref</name>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="56b0d8c2-a3ef-40ae-919d-9eeb547dd6aa">
+    <name>Консоль</name>
+    <synonym>
+      <key>ru</key>
+      <value>Консоль</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="3c3c2d8f-e4bc-4180-ae7f-f66cd4da02aa">
+    <name>ЖурналРегистрации</name>
+    <synonym>
+      <key>ru</key>
+      <value>Журнал регистрации</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="8302f719-1390-4d6c-8ecf-8e8b788349aa">
+    <name>Память</name>
+    <synonym>
+      <key>ru</key>
+      <value>Память</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="28f343dd-68ae-4a35-aa01-04d75c464dcc">
+    <name>Файл</name>
+    <synonym>
+      <key>ru</key>
+      <value>Файл</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="f036d9ad-a4af-40d9-9bf9-699dbe35b2fd">
+    <name>База</name>
+    <synonym>
+      <key>ru</key>
+      <value>База</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>

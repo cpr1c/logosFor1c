@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:SessionParameter xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="cd6b1fc6-dab3-4c12-a9a4-b3d2e14dff5b">
+  <name>лСообщенияЛогирования</name>
+  <synonym>
+    <key>ru</key>
+    <value>Сообщения логирования</value>
+  </synonym>
+  <type>
+    <types>FixedArray</types>
+  </type>
+</mdclass:SessionParameter>
