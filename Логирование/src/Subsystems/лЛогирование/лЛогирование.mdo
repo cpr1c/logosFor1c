@@ -16,4 +16,5 @@
   <content>InformationRegister.лСообщенияЛогирования</content>
   <content>CommonModule.лЛог</content>
   <content>SessionParameter.лСообщенияЛогирования</content>
+  <content>CommonModule.лЛогированиеКлиентСерверСлужебный</content>
 </mdclass:Subsystem>
