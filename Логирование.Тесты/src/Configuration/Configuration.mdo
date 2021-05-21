@@ -46,4 +46,6 @@
   <commonModules>CommonModule.Тест_Сервер_Инициализация</commonModules>
   <commonModules>CommonModule.Тест_Клиент_ИзменениеПараметров</commonModules>
   <commonModules>CommonModule.Тест_Сервер_ИзменениеПараметров</commonModules>
+  <commonModules>CommonModule.Тест_Клиент_МетодыЛогирования</commonModules>
+  <commonModules>CommonModule.Тест_Сервер_МетодыЛогирования</commonModules>
 </mdclass:Configuration>
