@@ -43,4 +43,7 @@
   </languages>
   <roles>Role.Расш1_ОсновнаяРоль</roles>
   <commonModules>CommonModule.Тест_Клиент_Инициализация</commonModules>
+  <commonModules>CommonModule.Тест_Сервер_Инициализация</commonModules>
+  <commonModules>CommonModule.Тест_Клиент_ИзменениеПараметров</commonModules>
+  <commonModules>CommonModule.Тест_Сервер_ИзменениеПараметров</commonModules>
 </mdclass:Configuration>
