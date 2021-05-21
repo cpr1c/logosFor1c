@@ -33,6 +33,7 @@
   <sessionParameters>SessionParameter.лСообщенияЛогирования</sessionParameters>
   <commonModules>CommonModule.лЛогированиеВызовСервераСлужебный</commonModules>
   <commonModules>CommonModule.лЛог</commonModules>
+  <commonModules>CommonModule.лЛогированиеКлиентСерверСлужебный</commonModules>
   <constants>Constant.лНастройкиЛогирования</constants>
   <catalogs>Catalog.лНастройкиЛогирования</catalogs>
   <enums>Enum.лУровниЛогирования</enums>
