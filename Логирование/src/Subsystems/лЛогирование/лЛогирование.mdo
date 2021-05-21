@@ -7,7 +7,7 @@
   </synonym>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
-  <content>CommonModule.лЛогирование</content>
+  <content>CommonModule.лЛогированиеВызовСервераСлужебный</content>
   <content>SessionParameter.лПараметрыЛогирования</content>
   <content>Constant.лНастройкиЛогирования</content>
   <content>Catalog.лНастройкиЛогирования</content>

@@ -31,7 +31,7 @@
   <subsystems>Subsystem.лЛогирование</subsystems>
   <sessionParameters>SessionParameter.лПараметрыЛогирования</sessionParameters>
   <sessionParameters>SessionParameter.лСообщенияЛогирования</sessionParameters>
-  <commonModules>CommonModule.лЛогирование</commonModules>
+  <commonModules>CommonModule.лЛогированиеВызовСервераСлужебный</commonModules>
   <commonModules>CommonModule.лЛог</commonModules>
   <constants>Constant.лНастройкиЛогирования</constants>
   <catalogs>Catalog.лНастройкиЛогирования</catalogs>
