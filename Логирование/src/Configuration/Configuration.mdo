@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="8f3a74ce-3982-45dc-a1dd-85d5eae2b1b2">
-  <name>Конфигурация</name>
+  <name>Логирование</name>
+  <synonym>
+    <key>ru</key>
+    <value>Подсистема &quot;Логирование&quot;</value>
+  </synonym>
   <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="1d263c5a-c67f-4910-b79d-0c084974c7ec"/>
   <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="2628863d-f551-4a42-9fd2-4bd8f9070c49"/>
   <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="e6e389a9-27ea-4f18-8345-8703c39b473b"/>
@@ -12,14 +16,20 @@
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <usePurposes>PersonalComputer</usePurposes>
   <scriptVariant>Russian</scriptVariant>
+  <vendor>ООО &quot;Центр прикладных разработок&quot;</vendor>
+  <version>1.0.0</version>
   <requiredMobileApplicationPermissions>
     <permission>AllowOSBackup</permission>
     <use>true</use>
   </requiredMobileApplicationPermissions>
   <defaultLanguage>Language.Русский</defaultLanguage>
+  <configurationInformationAddress>
+    <key>ru</key>
+    <value>https://github.com/cpr1c/logosFor1c</value>
+  </configurationInformationAddress>
   <dataLockControlMode>Managed</dataLockControlMode>
   <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
-  <compatibilityMode>8.3.17</compatibilityMode>
+  <compatibilityMode>8.3.12</compatibilityMode>
   <languages uuid="2b7e7f93-eaf7-49dd-a87d-96e208916ff7">
     <name>Русский</name>
     <synonym>
