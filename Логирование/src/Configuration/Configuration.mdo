@@ -19,7 +19,6 @@
   <defaultLanguage>Language.Русский</defaultLanguage>
   <dataLockControlMode>Managed</dataLockControlMode>
   <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
-  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
   <compatibilityMode>8.3.17</compatibilityMode>
   <languages uuid="2b7e7f93-eaf7-49dd-a87d-96e208916ff7">
     <name>Русский</name>
