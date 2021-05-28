@@ -237,4 +237,21 @@
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
   </forms>
+  <forms uuid="e3dcb238-d979-49fa-85ef-dbb439328dcc">
+    <name>КонструкторШаблонаИмениСобытия</name>
+    <synonym>
+      <key>ru</key>
+      <value>Конструктор шаблона имени события</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <templates uuid="1e29c930-5b6c-4a61-a35f-82a5e87156b5">
+    <name>ДоступныеПсевдонимыШаблона</name>
+    <synonym>
+      <key>ru</key>
+      <value>Доступные псевдонимы шаблона</value>
+    </synonym>
+    <templateType>HTMLDocument</templateType>
+  </templates>
 </mdclass:Catalog>
