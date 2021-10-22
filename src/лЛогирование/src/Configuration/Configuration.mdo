@@ -8,6 +8,7 @@
   <objectBelonging>Adopted</objectBelonging>
   <extension xsi:type="mdclassExtension:ConfigurationExtension">
     <defaultRunMode>Checked</defaultRunMode>
+    <managedApplicationModule>Extended</managedApplicationModule>
     <interfaceCompatibilityMode>Checked</interfaceCompatibilityMode>
   </extension>
   <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="2a57cf50-093c-47ec-824a-5a1ac87b932e"/>
@@ -24,5 +25,23 @@
   <scriptVariant>Russian</scriptVariant>
   <vendor>ООО &quot;Центр прикладных разработок&quot;</vendor>
   <version>2.0.0</version>
+  <copyright>
+    <key>ru</key>
+    <value>ООО &quot;Центр прикладных разработок&quot;</value>
+  </copyright>
+  <vendorInformationAddress>
+    <key>ru</key>
+    <value>https://github.com/cpr1c</value>
+  </vendorInformationAddress>
+  <configurationInformationAddress>
+    <key>ru</key>
+    <value>https://github.com/cpr1c/logosFor1c</value>
+  </configurationInformationAddress>
   <compatibilityMode>8.3.19</compatibilityMode>
+  <subsystems>Subsystem.лЛогирование</subsystems>
+  <commonModules>CommonModule.лЛог</commonModules>
+  <commonModules>CommonModule.лЛогПереопределяемый</commonModules>
+  <commonModules>CommonModule.лЛогСлужебный</commonModules>
+  <commonModules>CommonModule.лЛогСлужебныйСервер</commonModules>
+  <informationRegisters>InformationRegister.лСообщенияЛогирования</informationRegisters>
 </mdclass:Configuration>
