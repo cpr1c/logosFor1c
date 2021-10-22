@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="7b5c6d42-0e48-437d-aecd-ed63b79fb6c8">
-  <name>Тест_Клиент_ИзменениеПараметров</name>
-  <synonym>
-    <key>ru</key>
-    <value>Клиент изменение параметров</value>
-  </synonym>
-  <clientManagedApplication>true</clientManagedApplication>
-</mdclass:CommonModule>
