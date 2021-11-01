@@ -1,0 +1,86 @@
+{
+    // Используйте IntelliSense, чтобы узнать о возможных атрибутах.
+    // Наведите указатель мыши, чтобы просмотреть описания существующих атрибутов.
+    // Для получения дополнительной информации посетите: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "name": "Сборка Всего(По умолчанию)",
+            "type": "oscript",
+            "request": "launch",
+            "program": "${workspaceRoot}/tasks/build.os",
+            "args": [
+                "--platformSource=/opt/1cv8/x86_64/8.3.12.1924",
+                "--versionEDT=edt"
+            ],
+            "cwd": "${workspaceRoot}",
+            "env": {},
+            "runtimeExecutable": null,
+            "runtimeArgs": [],
+            "debugPort": 2801,
+            "protocol": "tcp",
+            "linux": {"runtimeExecutable": "/usr/bin/oscript"}
+        },
+        {
+            "name": "Конвертация исходников",
+            "type": "oscript",
+            "request": "launch",
+            "program": "${workspaceRoot}/tasks/build.os",
+            "args": [
+                "--versionEDT=edt@2021.1.7",
+                "--exportEDT=true",
+                "--cfe=false",
+                "--cf=false",
+                "--deleteSourse=false"
+            ],
+            "cwd": "${workspaceRoot}",
+            "env": {},
+            "runtimeExecutable": null,
+            "runtimeArgs": [],
+            "debugPort": 2801,
+            "protocol": "tcp",
+            "linux": {"runtimeExecutable": "/usr/bin/oscript"}
+        },
+        {
+            "name": "Сборка в расширение(Без исходников)",
+            "type": "oscript",
+            "request": "launch",
+            "program": "${workspaceRoot}/tasks/build.os",
+            "args": [
+                "--platformSource=/opt/1cv8/x86_64/8.3.12.1924",
+                "--exportEDT=false",
+                "--cfe=true",
+                "--cf=false",
+                "--deleteSourse=false"
+            ],
+            "cwd": "${workspaceRoot}",
+            "env": {},
+            "runtimeExecutable": null,
+            "runtimeArgs": [],
+            "debugPort": 2801,
+            "protocol": "tcp",
+            "linux": {"runtimeExecutable": "/usr/bin/oscript"}
+        },
+        {
+            "name": "Сборка в конфигурацию(Без исходников)",
+            "type": "oscript",
+            "request": "launch",
+            "program": "${workspaceRoot}/tasks/build.os",
+            "args": [
+                "--platformSource=/opt/1cv8/x86_64/8.3.12.1924",
+                "--exportEDT=false",
+                "--cfe=false",
+                "--cf=true",
+                "--deleteSourse=false"
+            ],
+            "cwd": "${workspaceRoot}",
+            "env": {},
+            "runtimeExecutable": null,
+            "runtimeArgs": [],
+            "debugPort": 2801,
+            "protocol": "tcp",
+            "linux": {"runtimeExecutable": "/usr/bin/oscript"}
+        }
+    ]
+}
