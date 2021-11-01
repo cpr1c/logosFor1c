@@ -6,7 +6,10 @@
     <value>Логирование</value>
   </synonym>
   <objectBelonging>Adopted</objectBelonging>
-  <extension xsi:type="mdclassExtension:ConfigurationExtension"/>
+  <extension xsi:type="mdclassExtension:ConfigurationExtension">
+    <managedApplicationModule>Extended</managedApplicationModule>
+    <externalConnectionModule>Extended</externalConnectionModule>
+  </extension>
   <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="2a57cf50-093c-47ec-824a-5a1ac87b932e"/>
   <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="a33ff46c-ae58-4db7-a3d2-cb2862ea9052"/>
   <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="9db49c61-b701-402c-b038-69e967ebcd97"/>
