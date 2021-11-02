@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="f68d4c94-0fd5-4d1c-b8d1-e6869e50d5f0">
+  <name>лЛогСпособЛогирониваяОбщийМодуль</name>
+  <synonym>
+    <key>ru</key>
+    <value>Л лог способ логиронивая общий модуль</value>
+  </synonym>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:ConfigurationExtension">
+    <defaultRunMode>Checked</defaultRunMode>
+    <managedApplicationModule>Extended</managedApplicationModule>
+    <interfaceCompatibilityMode>Checked</interfaceCompatibilityMode>
+  </extension>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="ad777c93-c6f8-456b-8c31-584d7c84d8c4"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="0d91f1f1-49ec-43fc-8aa9-19df08d12dc5"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="6c20be26-e951-40ed-94c1-8f40ab6ba1cd"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="13af6001-e756-4c09-8c1e-aeaaba740216"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="2008ee37-7c9b-437a-b43f-5809f838d9d6"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="ef122fea-23ff-4c28-a5a8-b577b32c6a6b"/>
+  <keepMappingToExtendedConfigurationObjectsByIDs>true</keepMappingToExtendedConfigurationObjectsByIDs>
+  <namePrefix>л_с_</namePrefix>
+  <configurationExtensionCompatibilityMode>8.3.12</configurationExtensionCompatibilityMode>
+  <configurationExtensionPurpose>Customization</configurationExtensionPurpose>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <scriptVariant>Russian</scriptVariant>
+  <vendor>ООО &quot;Центр прикладных разработок&quot;</vendor>
+  <version>1.0</version>
+  <commonModules>CommonModule.лЛогСпособЛогированияОповещениеПользователя</commonModules>
+</mdclass:Configuration>
