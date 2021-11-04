@@ -7,9 +7,6 @@
   </synonym>
   <objectBelonging>Adopted</objectBelonging>
   <extension xsi:type="mdclassExtension:ConfigurationExtension">
-    <defaultRunMode>Checked</defaultRunMode>
-    <managedApplicationModule>Extended</managedApplicationModule>
-    <interfaceCompatibilityMode>Checked</interfaceCompatibilityMode>
   </extension>
   <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="ad777c93-c6f8-456b-8c31-584d7c84d8c4"/>
   <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="0d91f1f1-49ec-43fc-8aa9-19df08d12dc5"/>
