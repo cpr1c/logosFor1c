@@ -358,4 +358,4 @@
 * Обработка для логирования из одного объекта (обработки): https://github.com/codenull/log1c
 * Модуль logos из OneScript: https://github.com/oscript-library/logos
 * Подсистема логирования на базе модуля logos: https://github.com/1823244/logos-1c
-* 1C_logger. Подсистема логирования - https://infostart.ru/public/671835/  https://gitlab.com/shmalevoz/1C_logger
+* 1C_logger. Подсистема логирования - https://infostart.ru/public/671835/  https://gitlab.com/shmalevoz/1C_logger https://gitlab.com/shmalevoz/logger_ext
