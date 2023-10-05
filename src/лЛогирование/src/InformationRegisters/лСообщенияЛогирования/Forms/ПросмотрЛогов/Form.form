@@ -18,10 +18,8 @@
         <userVisible>
           <common>true</common>
         </userVisible>
-        <dataPath xsi:type="form:MultiLanguageDataPath">
-          <paths xsi:type="form:DataPath">
-            <segments>ОбновлятьСразу</segments>
-          </paths>
+        <dataPath xsi:type="form:DataPath">
+          <segments>ОбновлятьСразу</segments>
         </dataPath>
         <extendedTooltip>
           <name>ОбновлятьСразуРасширеннаяПодсказка</name>
@@ -69,10 +67,8 @@
         <userVisible>
           <common>true</common>
         </userVisible>
-        <dataPath xsi:type="form:MultiLanguageDataPath">
-          <paths xsi:type="form:DataPath">
-            <segments>ЛимитЗаписей</segments>
-          </paths>
+        <dataPath xsi:type="form:DataPath">
+          <segments>ЛимитЗаписей</segments>
         </dataPath>
         <handlers>
           <event>OnChange</event>
@@ -153,10 +149,8 @@
         <userVisible>
           <common>true</common>
         </userVisible>
-        <dataPath xsi:type="form:MultiLanguageDataPath">
-          <paths xsi:type="form:DataPath">
-            <segments>Период</segments>
-          </paths>
+        <dataPath xsi:type="form:DataPath">
+          <segments>Период</segments>
         </dataPath>
         <handlers>
           <event>OnChange</event>
@@ -227,10 +221,8 @@
             <userVisible>
               <common>true</common>
             </userVisible>
-            <dataPath xsi:type="form:MultiLanguageDataPath">
-              <paths xsi:type="form:DataPath">
-                <segments>ОтборИмяСобытия.Check</segments>
-              </paths>
+            <dataPath xsi:type="form:DataPath">
+              <segments>ОтборИмяСобытия.Check</segments>
             </dataPath>
             <titleLocation>None</titleLocation>
             <handlers>
@@ -280,10 +272,8 @@
             <userVisible>
               <common>true</common>
             </userVisible>
-            <dataPath xsi:type="form:MultiLanguageDataPath">
-              <paths xsi:type="form:DataPath">
-                <segments>ОтборИмяСобытия.Value</segments>
-              </paths>
+            <dataPath xsi:type="form:DataPath">
+              <segments>ОтборИмяСобытия.Value</segments>
             </dataPath>
             <extendedTooltip>
               <name>ОтборИмяСобытияЗначениеРасширеннаяПодсказка</name>
@@ -428,6 +418,7 @@
               </userVisible>
               <autoFill>true</autoFill>
             </contextMenu>
+            <source>ОтборИмяСобытияСтрокаПоиска</source>
             <extInfo xsi:type="form:SearchStringAdditionExtInfo">
               <autoMaxWidth>true</autoMaxWidth>
             </extInfo>
@@ -466,6 +457,7 @@
               <autoFill>true</autoFill>
             </contextMenu>
             <type>ViewStatusAddition</type>
+            <source>ОтборИмяСобытияСостояниеПросмотра</source>
             <extInfo xsi:type="form:ViewStatusAdditionExtInfo">
               <autoMaxWidth>true</autoMaxWidth>
             </extInfo>
@@ -504,6 +496,7 @@
               <autoFill>true</autoFill>
             </contextMenu>
             <type>SearchControlAddition</type>
+            <source>ОтборИмяСобытияУправлениеПоиском</source>
             <extInfo xsi:type="form:SearchControlAdditionExtInfo">
               <autoMaxWidth>true</autoMaxWidth>
             </extInfo>
@@ -574,10 +567,8 @@
             <userVisible>
               <common>true</common>
             </userVisible>
-            <dataPath xsi:type="form:MultiLanguageDataPath">
-              <paths xsi:type="form:DataPath">
-                <segments>ОтборКлючСеанса.Check</segments>
-              </paths>
+            <dataPath xsi:type="form:DataPath">
+              <segments>ОтборКлючСеанса.Check</segments>
             </dataPath>
             <titleLocation>None</titleLocation>
             <handlers>
@@ -627,10 +618,8 @@
             <userVisible>
               <common>true</common>
             </userVisible>
-            <dataPath xsi:type="form:MultiLanguageDataPath">
-              <paths xsi:type="form:DataPath">
-                <segments>ОтборКлючСеанса.Value</segments>
-              </paths>
+            <dataPath xsi:type="form:DataPath">
+              <segments>ОтборКлючСеанса.Value</segments>
             </dataPath>
             <extendedTooltip>
               <name>ОтборКлючСеансаЗначениеРасширеннаяПодсказка</name>
@@ -775,6 +764,7 @@
               </userVisible>
               <autoFill>true</autoFill>
             </contextMenu>
+            <source>ОтборКлючСеансаСтрокаПоиска</source>
             <extInfo xsi:type="form:SearchStringAdditionExtInfo">
               <autoMaxWidth>true</autoMaxWidth>
             </extInfo>
@@ -813,6 +803,7 @@
               <autoFill>true</autoFill>
             </contextMenu>
             <type>ViewStatusAddition</type>
+            <source>ОтборКлючСеансаСостояниеПросмотра</source>
             <extInfo xsi:type="form:ViewStatusAdditionExtInfo">
               <autoMaxWidth>true</autoMaxWidth>
             </extInfo>
@@ -851,6 +842,7 @@
               <autoFill>true</autoFill>
             </contextMenu>
             <type>SearchControlAddition</type>
+            <source>ОтборКлючСеансаУправлениеПоиском</source>
             <extInfo xsi:type="form:SearchControlAdditionExtInfo">
               <autoMaxWidth>true</autoMaxWidth>
             </extInfo>
@@ -983,10 +975,8 @@
         <userVisible>
           <common>true</common>
         </userVisible>
-        <dataPath xsi:type="form:MultiLanguageDataPath">
-          <paths xsi:type="form:DataPath">
-            <segments>ДанныеПросмотра</segments>
-          </paths>
+        <dataPath xsi:type="form:DataPath">
+          <segments>ДанныеПросмотра</segments>
         </dataPath>
         <titleLocation>None</titleLocation>
         <extendedTooltip>

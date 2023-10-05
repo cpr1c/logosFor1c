@@ -8,10 +8,8 @@
     <userVisible>
       <common>true</common>
     </userVisible>
-    <dataPath xsi:type="form:MultiLanguageDataPath">
-      <paths xsi:type="form:DataPath">
-        <segments>Запись.ИмяСобытия</segments>
-      </paths>
+    <dataPath xsi:type="form:DataPath">
+      <segments>Запись.ИмяСобытия</segments>
     </dataPath>
     <extendedTooltip>
       <name>ИмяСобытияРасширеннаяПодсказка</name>
@@ -60,10 +58,8 @@
     <userVisible>
       <common>true</common>
     </userVisible>
-    <dataPath xsi:type="form:MultiLanguageDataPath">
-      <paths xsi:type="form:DataPath">
-        <segments>Запись.НомерСеанса</segments>
-      </paths>
+    <dataPath xsi:type="form:DataPath">
+      <segments>Запись.НомерСеанса</segments>
     </dataPath>
     <extendedTooltip>
       <name>КлючСеансаРасширеннаяПодсказка</name>
@@ -112,10 +108,8 @@
     <userVisible>
       <common>true</common>
     </userVisible>
-    <dataPath xsi:type="form:MultiLanguageDataPath">
-      <paths xsi:type="form:DataPath">
-        <segments>Запись.ИмяПользователя</segments>
-      </paths>
+    <dataPath xsi:type="form:DataPath">
+      <segments>Запись.ИмяПользователя</segments>
     </dataPath>
     <extendedTooltip>
       <name>ИмяПользователяРасширеннаяПодсказка</name>
@@ -164,10 +158,8 @@
     <userVisible>
       <common>true</common>
     </userVisible>
-    <dataPath xsi:type="form:MultiLanguageDataPath">
-      <paths xsi:type="form:DataPath">
-        <segments>Запись.Дата</segments>
-      </paths>
+    <dataPath xsi:type="form:DataPath">
+      <segments>Запись.Дата</segments>
     </dataPath>
     <extendedTooltip>
       <name>ДатаРасширеннаяПодсказка</name>
@@ -216,10 +208,8 @@
     <userVisible>
       <common>true</common>
     </userVisible>
-    <dataPath xsi:type="form:MultiLanguageDataPath">
-      <paths xsi:type="form:DataPath">
-        <segments>Запись.Идентификатор</segments>
-      </paths>
+    <dataPath xsi:type="form:DataPath">
+      <segments>Запись.Идентификатор</segments>
     </dataPath>
     <extendedTooltip>
       <name>ИдентификаторРасширеннаяПодсказка</name>
@@ -268,10 +258,8 @@
     <userVisible>
       <common>true</common>
     </userVisible>
-    <dataPath xsi:type="form:MultiLanguageDataPath">
-      <paths xsi:type="form:DataPath">
-        <segments>Запись.Уровень</segments>
-      </paths>
+    <dataPath xsi:type="form:DataPath">
+      <segments>Запись.Уровень</segments>
     </dataPath>
     <extendedTooltip>
       <name>УровеньРасширеннаяПодсказка</name>
@@ -320,10 +308,8 @@
     <userVisible>
       <common>true</common>
     </userVisible>
-    <dataPath xsi:type="form:MultiLanguageDataPath">
-      <paths xsi:type="form:DataPath">
-        <segments>Запись.ТекстСообщения</segments>
-      </paths>
+    <dataPath xsi:type="form:DataPath">
+      <segments>Запись.ТекстСообщения</segments>
     </dataPath>
     <extendedTooltip>
       <name>ТекстСообщенияРасширеннаяПодсказка</name>
