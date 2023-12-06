@@ -18,16 +18,16 @@
   <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="6e0a83be-ef60-47e0-a839-043471614bdb"/>
   <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="946c68eb-432e-4726-ad18-d5611da3175b"/>
   <namePrefix>л</namePrefix>
-  <configurationExtensionCompatibilityMode>8.3.14</configurationExtensionCompatibilityMode>
+  <configurationExtensionCompatibilityMode>8.3.12</configurationExtensionCompatibilityMode>
   <configurationExtensionPurpose>AddOn</configurationExtensionPurpose>
   <scriptVariant>Russian</scriptVariant>
   <vendor>ООО &quot;Центр прикладных разработок&quot;</vendor>
-  <version>2.3.0</version>
+  <version>2.3.1</version>
   <subsystems>Subsystem.лЛогирование</subsystems>
-  <sessionParameters>SessionParameter.лДанныеЛогирования</sessionParameters>
   <commonModules>CommonModule.лЛог</commonModules>
   <commonModules>CommonModule.лЛогПереопределяемый</commonModules>
   <commonModules>CommonModule.лЛогСлужебный</commonModules>
   <commonModules>CommonModule.лЛогСлужебныйСервер</commonModules>
+  <commonModules>CommonModule.лЛогСлужебныйПовтИсп</commonModules>
   <informationRegisters>InformationRegister.лСообщенияЛогирования</informationRegisters>
 </mdclass:Configuration>
